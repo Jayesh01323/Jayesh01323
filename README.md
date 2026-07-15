@@ -33,5 +33,5 @@ Spotify clone music player built with HTML, CSS, and JavaScript. Features full m
 ## � Connect
 
 - **GitHub:** [Jayesh01323](https://github.com/Jayesh01323)
-- **LinkedIn:** [linkedin.com/in/jayesh-patil](https://linkedin.com/in/jayesh-patil)
+- **LinkedIn:** [linkedin.com/in/jayesh-patil-5a2a082b5](https://www.linkedin.com/in/jayesh-patil-5a2a082b5)
 - **Email:** jayeshp3040@gmail.com
